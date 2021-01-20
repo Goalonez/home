@@ -277,6 +277,19 @@ body {
     color: rgb(0, 132, 255);
 }
 
+.cmd .cmdText .ul {
+    margin-left: 15px;
+}
+
+.cmd .cmdText .ul a {
+    text-decoration: none;
+    color: rgb(88, 89, 92);
+}
+
+.cmd .cmdText .ul a:hover {
+    color: rgb(0, 132, 255);
+}
+
 #footer {
     width: 100%;
     color: white;
