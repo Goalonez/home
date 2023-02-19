@@ -47,7 +47,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(../img/goalonez.jpeg) no-repeat;
+    background: url(../img/goalonez.jpg) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
