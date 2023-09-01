@@ -295,9 +295,10 @@ body {
     color: white;
     float: left;
     text-align: center;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     margin-bottom: 30px;
+    padding-top: 10%;
     /* background-color: blue; */
 }
 
